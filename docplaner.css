@@ -1,0 +1,40 @@
+.topnav{
+        position: sticky;
+        background-color: rgb(13, 171, 239);
+        height: 60px;
+        width: 100%;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.alpha{
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: antiquewhite;
+    
+}
+.beta{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+   justify-content:space-between;
+   color: antiquewhite;
+ 
+}
+.title{
+    color: aqua;
+    text-align: center;
+}
+
+.first{
+    padding-right: 100px;
+    
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    display: flex;
+    justify-content: space-evenly;
+}
